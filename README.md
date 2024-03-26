@@ -8,10 +8,10 @@
 -  AIRtools/ART_tiempo_mio.m
 
 las imagenes de salida de esos archivos estan procesadas en:
--  MATLAB/ANGLES/proces.ipyb
--  MATLAB/DETECTORES/proces.ipyb
--  MATLAB/EXPMAX/proces.ipyb
--  MATLAB/NOISE/proces.ipyb
+-  Main/ANGLES/proces.ipyb
+-  Main/DETECTORES/proces.ipyb
+-  Main/EXPMAX/proces.ipyb
+-  Main/NOISE/proces.ipyb
 
 ##  Procesamiento en python:
 -  Main/Practica_4.ipynb
